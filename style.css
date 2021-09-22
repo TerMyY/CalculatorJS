@@ -63,4 +63,6 @@ button
 .big
 {
     grid-column: span 2;
+    background-color: #F9423A;
+    color: #FDF4DC;
 }
